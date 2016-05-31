@@ -1,3 +1,3 @@
 # learnyounode
 
-Complete [nodeschool](http://nodeschool.io/) tutorial.
+Complete [learnyounode](https://github.com/workshopper/learnyounode) tutorial.
